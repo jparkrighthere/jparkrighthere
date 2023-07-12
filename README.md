@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ...
   - On-going project
-    -CollegeMate (College Community App Development)
+    - CollegeMate (College Community App Development)
     
 - 🌱 I’m currently learning ...
   - Node.js
