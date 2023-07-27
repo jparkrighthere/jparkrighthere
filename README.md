@@ -10,6 +10,6 @@
   - Node.js
   - TypeScript
   
-- 📫 How to reach me: ...
+- 📫 How to reach me:
   - Email: fishbox0923@gmail.com / jpark634@wisc.edu
   
