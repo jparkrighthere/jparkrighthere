@@ -7,9 +7,10 @@
     - CollegeMate (College Community App Development)
     
 - 🌱 I’m currently learning ...
-  - Node.js
+  - Express.js
   - TypeScript
   - React/React Native
+  - Algorithms
   
 - 📫 How to reach me:
   - Email: fishbox0923@gmail.com / jpark634@wisc.edu
