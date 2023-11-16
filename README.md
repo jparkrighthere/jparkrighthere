@@ -4,7 +4,7 @@
 
 - ✨️ I am (was) ...
   - Majoring in Computer Science at University of Wisconsin-Madison
-  - Back-end & Blockchain Developer Intern @CreativeHill.Inc (06.23 ~08.23)
+  - Back-end & Blockchain Developer Intern at CreativeHill.Inc (06.23 ~08.23)
 
 - 🔭 I’m currently working on ...
   - On-going project
