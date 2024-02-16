@@ -9,12 +9,13 @@
 - 🔭 I’m currently working on ...
   - On-going project
     - CollegeMate (College Community App Development)
+    - Portfolio
     
 - 🌱 I’m currently learning ...
   - Express.js
   - TypeScript
-  - React/React Native
-  - Algorithms
+  - Next.js
+  - Tailwind CSS
   
 - 📫 How to reach me:
   - Email: fishbox0923@gmail.com / jpark634@wisc.edu
