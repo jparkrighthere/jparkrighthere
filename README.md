@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on ...
   - On-going project
     - CollegeMate (College Community App Development)
-    - Portfolio
+    - Capital One (Full Stack Bankiing Application)
     
 - 🌱 I’m currently learning ...
   - Express.js
