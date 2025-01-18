@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Jeonghyeon's github stats](https://github-readme-stats-peach-eight.vercel.app/api?username=jparkrighthere&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 - ✨️ I am (was) ...
   - Majoring in Computer Science at University of Wisconsin-Madison
   - Back-end & Blockchain Developer Intern at CreativeHill.Inc (06.23 ~08.23)
